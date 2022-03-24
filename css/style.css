@@ -303,8 +303,8 @@ img{
 	gap: 5rem;
 }
 
-.about__img{
-
+.img__perfil__about{
+	object-fit: cover;
 }
 
 .about__description .download__pdf{
